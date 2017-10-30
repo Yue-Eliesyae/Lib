@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\santa\documents\visual studio 2017\projects\teststaticlib\teststaticlib\source.cpp(10): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\santa\documents\visual studio 2017\projects\teststaticlib\teststaticlib\source.cpp(10): note: placeholders and their parameters expect 4 variadic arguments, but 3 were provided
+  c:\users\santa\documents\visual studio 2017\projects\teststaticlib\teststaticlib\source.cpp(10): note: the missing variadic argument 4 is required by format string '%d'
+StaticLib.lib(StdioMath.obj) : warning LNK4099: PDB 'StaticLib.pdb' was not found with 'StaticLib.lib(StdioMath.obj)' or at 'c:\users\santa\documents\visual studio 2017\Projects\TestStaticLib\Debug\StaticLib.pdb'; linking object as if no debug info
+  TestStaticLib.vcxproj -> c:\users\santa\documents\visual studio 2017\Projects\TestStaticLib\Debug\TestStaticLib.exe
+  TestStaticLib.vcxproj -> c:\users\santa\documents\visual studio 2017\Projects\TestStaticLib\Debug\TestStaticLib.pdb (Partial PDB)
